@@ -1,4 +1,4 @@
-package com.algorithm.c1;
+package vn.trienvd.c1;
 
 public class SelectionSort {
 	private static void selectionSort(int[] A) {

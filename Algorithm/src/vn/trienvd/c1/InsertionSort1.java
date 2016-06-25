@@ -1,4 +1,4 @@
-package com.algorithm.c1;
+package vn.trienvd.c1;
 
 public class InsertionSort1 {
 	public static void insertionSort(int [] A){

@@ -1,4 +1,4 @@
-package com.algorithm.c1;
+package vn.trienvd.c1;
 
 public class SearchingProblem {
 	public static int searchV(int v,int [] A){
